@@ -1,0 +1,8 @@
+2025-07-13
+kruh 1 1.50
+jaja 5 0.20
+mlijeko 2 1.00
+ulje 2 3.00
+brasno 1 0.95
+cokolada 3 2.45
+kava 1 7.50
